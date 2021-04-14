@@ -2,6 +2,11 @@
 
 | App | 功能 | 安装 |
 | --- | --- | --- |
+|Chrome|最强浏览器|[官网](https://www.google.com/intl/zh-CN/chrome/)|
+|微信|垄断 14 亿中国人的社交软件|[App Store](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)|
+|Adguard for Safari|Safari 去广告扩展|[App Store](https://apps.apple.com/cn/app/adguard-for-safari/id1440147259?mt=12)|
+|Tampermonkey|Safari 扩展|[App Store](https://apps.apple.com/cn/app/tampermonkey/id1482490089?mt=12)|
+|1Password|密码管理|[App Store](https://apps.apple.com/cn/app/1password-7-password-manager/id1333542190?mt=12)|
 | PasteNow | 剪贴板工具 | [App Store](https://apps.apple.com/cn/app/pastenow-%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%B7%A5%E5%85%B7/id1552536109?mt=12)|
 |One Markdown|简单快速的文本和 Textbundle 编辑器 |[App Store](https://apps.apple.com/cn/app/one-markdown/id1507139439)
 |Typora|Markdown编辑器|[官网](https://www.typora.io/)|
@@ -37,5 +42,6 @@
 | BetterZip | 解压缩 | [官网](https://www.macitbetter.com/)|
 | DaisyDisk | 磁盘分析清理 | [官网](https://daisydiskapp.com/)|
 | PopClip | 划词扩展 | [官网](https://pilotmoon.com/popclip/)|
-
-
+|剪映专业版|简单易用视频创作|[App Store](https://apps.apple.com/cn/app/%E5%89%AA%E6%98%A0%E4%B8%93%E4%B8%9A%E7%89%88/id1529999940?mt=12)|
+|Notability|功能强大的笔记|[App Store](https://apps.apple.com/cn/app/notability/id360593530)|
+|倒数日|记住重要日子|[App Store](https://apps.apple.com/cn/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter-for-desktop/id494500492?mt=12)|
