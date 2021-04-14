@@ -17,8 +17,8 @@
 | Blackmagic Disk Speed Test  | 测试硬盘读写速度  |  [App Store](https://apps.apple.com/cn/app/blackmagic-disk-speed-test/id425264550?mt=12) |
 |  Visual Studio Code | 源代码编辑器  | [官网](https://code.visualstudio.com/)  |
 | AS Timer  | 倒计时  |  [App Store](https://apps.apple.com/cn/app/as-timer/id512464723?mt=12) |
-|   |   |   |
-|   |   |   |
+| IINA  | 播放器  | [官网](https://iina.io/)  |
+|  Rime鼠须管 | 开源输入法  | [GitHub](https://github.com/maomiui/rime)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
