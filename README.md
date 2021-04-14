@@ -8,3 +8,4 @@
 |Spark|最美最好用邮件| [App Store](https://apps.apple.com/cn/app/spark-readdle-%E5%87%BA%E5%93%81%E7%9A%84%E9%82%AE%E7%AE%B1%E5%BA%94%E7%94%A8/id1176895641?mt=12)
 |Alfred 4|最好用的第三方聚焦搜索|[官网](https://www.alfredapp.com/)
 |Bob|截图/划词/输入翻译工具| [GitHub](https://github.com/ripperhe/Bob)
+| iStat Menus | 最好用的系统监控 | [官网](https://bjango.com/mac/istatmenus/) |
