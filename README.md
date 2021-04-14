@@ -4,6 +4,7 @@
 | --- | --- | --- |
 | PasteNow | 剪贴板工具 | [App Store](https://apps.apple.com/cn/app/pastenow-%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%B7%A5%E5%85%B7/id1552536109?mt=12)|
 |One Markdown|简单快速的文本和 Textbundle 编辑器 |[App Store](https://apps.apple.com/cn/app/one-markdown/id1507139439)
+|Typora|Markdown编辑器|[官网](https://www.typora.io/)|
 |CleanShot X|最佳截图软件 |[官网](https://cleanshot.com/)
 |Spark|最美最好用邮件| [App Store](https://apps.apple.com/cn/app/spark-readdle-%E5%87%BA%E5%93%81%E7%9A%84%E9%82%AE%E7%AE%B1%E5%BA%94%E7%94%A8/id1176895641?mt=12)
 |Alfred|最好用的第三方聚焦搜索|[官网](https://www.alfredapp.com/)
@@ -22,13 +23,19 @@
 | Downie  |  视频下载 |  [官网](https://software.charliemonroe.net/downie/) |
 |  Permute | 视频格式转换  |  [官网](https://software.charliemonroe.net/permute/) |
 |  ClashX | 代理工具  |  [GitHub](https://github.com/yichengchen/clashX) |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|  Sketch | 矢量绘图  | [官网](https://www.sketch.com/)  |
+| XMind  |  思维导图 |  [官网](https://www.xmind.cn/) |
+| VMware Fusion Pro  | 虚拟机  | [官网](https://www.vmware.com/cn/products/fusion.html)  |
+| Parallels Desktop  | 虚拟机  |  [官网](https://www.parallels.com/) |
+|  PDF Expert  | PDF 编辑器  | [官网](https://pdfexpert.com/)  |
+| Paragon NTFS  |  读写 NTFS 磁盘 |  [官网](https://www.paragon-software.com/home/ntfs-mac/) |
+| iMazing  |  管理 iPhone |  [官网](https://imazing.com/zh) |
+|  Topaz Gigapixel AI |  图片无损放大 |  [官网](https://topazlabs.com/gigapixel-ai/) |
+| Bartender  | 管理菜单栏图标  | [官网](https://www.macbartender.com/Bartender4/)  |
+|  Magnet |  窗口管理 |  [App Store](https://apps.apple.com/cn/app/magnet/id441258766?mt=12) |
+| One Switch | 系统功能快速开关 | [官网](https://fireball.studio/oneswitch/)|
+| BetterZip | 解压缩 | [官网](https://www.macitbetter.com/)|
+| DaisyDisk | 磁盘分析清理 | [官网](https://daisydiskapp.com/)|
+| PopClip | 划词扩展 | [官网](https://pilotmoon.com/popclip/)|
+
+
