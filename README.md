@@ -21,7 +21,7 @@
 |  Rime 鼠须管 | 开源输入法  | [GitHub](https://github.com/maomiui/rime)  |
 | Downie  |  视频下载 |  [官网](https://software.charliemonroe.net/downie/) |
 |  Permute | 视频格式转换  |  [官网](https://software.charliemonroe.net/permute/) |
-|   |   |   |
+|  ClashX | 代理工具  |  [](https://github.com/yichengchen/clashX) |
 |   |   |   |
 |   |   |   |
 |   |   |   |
