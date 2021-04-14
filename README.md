@@ -19,7 +19,7 @@
 | AS Timer  | 倒计时  |  [App Store](https://apps.apple.com/cn/app/as-timer/id512464723?mt=12) |
 | IINA  | 播放器  | [官网](https://iina.io/)  |
 |  Rime 鼠须管 | 开源输入法  | [GitHub](https://github.com/maomiui/rime)  |
-| Downie  |  下载视频 |  [官网](https://software.charliemonroe.net/downie/) |
+| Downie  |  视频下载 |  [官网](https://software.charliemonroe.net/downie/) |
 |  Permute | 视频格式转换  |  [官网](https://software.charliemonroe.net/permute/) |
 |   |   |   |
 |   |   |   |
