@@ -51,3 +51,14 @@
 |Drivedx|检测硬盘信息|[官网](https://binaryfruit.com/drivedx)|
 |ArctimePro|制作字幕|[官网](http://arctime.cn/download.html)|
 |Handbrake|视频压缩及格式转换|[官网](https://handbrake.fr/)|
+|Window Tidy|分屏工具|[App Store](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12)|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+
