@@ -49,5 +49,5 @@
 |AltTab|窗口切换|[GitHub](https://github.com/lwouis/alt-tab-macos/releases/tag/v6.21.0)|
 |GitHub Desktop|GitHub 桌面 Git|[GitHub](https://desktop.github.com/)|
 |Drivedx|检测硬盘信息|[官网](https://binaryfruit.com/drivedx)|
-||||
-||||
+|ArctimePro|制作字幕|[官网](http://arctime.cn/download.html)|
+|Handbrake|视频压缩及格式转换|[官网](https://handbrake.fr/)|
