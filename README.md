@@ -52,8 +52,8 @@
 |ArctimePro|制作字幕|[官网](http://arctime.cn/download.html)|
 |Handbrake|视频压缩及格式转换|[官网](https://handbrake.fr/)|
 |Window Tidy|分屏工具|[App Store](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12)|
-||||
-||||
+|One Switch|系统功能快速开关|[官网](https://fireball.studio/oneswitch/)|
+|CheatSheet|显示快捷键|[官网](https://www.mediaatelier.com/CheatSheet/)|
 ||||
 ||||
 ||||
