@@ -3,7 +3,7 @@
 | App | 功能 | 安装 |
 | --- | --- | --- |
 |Chrome|浏览器|[官网](https://www.google.com/intl/zh-CN/chrome/)|
-|微信|社交软件|[App Store](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)|
+|微信|社交|[App Store](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)|
 |Adguard for Safari|Safari 去广告扩展|[App Store](https://apps.apple.com/cn/app/adguard-for-safari/id1440147259?mt=12)|
 |Tampermonkey|Safari 油猴扩展|[App Store](https://apps.apple.com/cn/app/tampermonkey/id1482490089?mt=12)|
 |1Password|密码管理|[App Store](https://apps.apple.com/cn/app/1password-7-password-manager/id1333542190?mt=12)|
@@ -40,6 +40,7 @@
 |  Magnet |  窗口管理 |  [App Store](https://apps.apple.com/cn/app/magnet/id441258766?mt=12) |
 | One Switch | 系统功能快速开关 | [官网](https://fireball.studio/oneswitch/)|
 | BetterZip | 解压缩 | [官网](https://www.macitbetter.com/)|
+|Keka | 解压缩 | [官网](https://www.keka.io/en/)|
 | DaisyDisk | 磁盘分析清理 | [官网](https://daisydiskapp.com/)|
 | PopClip | 划词扩展 | [官网](https://pilotmoon.com/popclip/)|
 |剪映专业版|视频创作|[App Store](https://apps.apple.com/cn/app/%E5%89%AA%E6%98%A0%E4%B8%93%E4%B8%9A%E7%89%88/id1529999940?mt=12)|
@@ -54,11 +55,4 @@
 |Window Tidy|分屏工具|[App Store](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12)|
 |One Switch|系统功能快速开关|[官网](https://fireball.studio/oneswitch/)|
 |CheatSheet|显示快捷键|[官网](https://www.mediaatelier.com/CheatSheet/)|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
 
