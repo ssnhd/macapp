@@ -8,6 +8,7 @@
 |Adguard for Safari|Safari 去广告扩展|[App Store](https://apps.apple.com/cn/app/adguard-for-safari/id1440147259?mt=12)|
 |Tampermonkey|Safari 油猴扩展|[App Store](https://apps.apple.com/cn/app/tampermonkey/id1482490089?mt=12)|
 |1Password|密码管理|[App Store](https://apps.apple.com/cn/app/1password-7-password-manager/id1333542190?mt=12)|
+|Enpass|密码管理|[App Store](https://apps.apple.com/cn/app/enpass-password-manager/id732710998?mt=12)|
 | PasteNow | 剪贴板 | [App Store](https://apps.apple.com/cn/app/pastenow-%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%B7%A5%E5%85%B7/id1552536109?mt=12)|
 |One Markdown|Markdown 编辑器 |[App Store](https://apps.apple.com/cn/app/one-markdown/id1507139439)|
 |Typora|Markdown 编辑器|[官网](https://www.typora.io/)|
