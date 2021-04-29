@@ -3,6 +3,7 @@
 | App | 功能 | 安装 |
 | --- | --- | --- |
 |Chrome|浏览器|[官网](https://www.google.com/intl/zh-CN/chrome/)|
+|Twitter|社交|[App Store](https://apps.apple.com/cn/app/twitter/id1482454543?mt=12)|
 |微信|社交|[App Store](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)|
 |Adguard for Safari|Safari 去广告扩展|[App Store](https://apps.apple.com/cn/app/adguard-for-safari/id1440147259?mt=12)|
 |Tampermonkey|Safari 油猴扩展|[App Store](https://apps.apple.com/cn/app/tampermonkey/id1482490089?mt=12)|
