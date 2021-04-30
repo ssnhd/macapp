@@ -26,6 +26,7 @@
 |  Visual Studio Code | 源代码编辑器  | [官网](https://code.visualstudio.com/)  |
 | AS Timer  | 倒计时  |  [App Store](https://apps.apple.com/cn/app/as-timer/id512464723?mt=12) |
 | IINA  | 播放器  | [官网](https://iina.io/)  |
+|iina+|搭配 IINA 播放器观看直播|[GitHub](https://github.com/xjbeta/iina-plus/releases/tag/0.5.15(21033022))|
 |  Rime 鼠须管 | 开源输入法  | [GitHub](https://github.com/maomiui/rime)  |
 | Downie  |  视频下载 |  [官网](https://software.charliemonroe.net/downie/) |
 |  Permute | 视频格式转换  |  [官网](https://software.charliemonroe.net/permute/) |
@@ -59,6 +60,7 @@
 |CheatSheet|显示快捷键|[官网](https://www.mediaatelier.com/CheatSheet/)|
 |Numi|计算器|[官网](https://numi.app/)|
 |Soulver 3|计算器|[官网](https://soulver.app/)|
+|Currencier|货币转换和汇率|[App Store](https://apps.apple.com/cn/app/currencier-%E8%B4%A7%E5%B8%81%E8%BD%AC%E6%8D%A2%E5%99%A8%E5%92%8C%E6%B1%87%E7%8E%87/id1150106962?mt=12)|
 
 
 
