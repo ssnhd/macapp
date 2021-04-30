@@ -45,7 +45,7 @@
 | BetterZip | 解压缩 | [官网](https://www.macitbetter.com/)|
 |Keka | 解压缩 | [官网](https://www.keka.io/en/)|
 | DaisyDisk | 磁盘分析清理 | [官网](https://daisydiskapp.com/)|
-| PopClip | 划词扩展 | [官网](https://pilotmoon.com/popclip/)|
+| PopClip | 划词扩展 | [App Store](https://apps.apple.com/cn/app/popclip/id445189367?mt=12)|
 |剪映专业版|视频创作|[App Store](https://apps.apple.com/cn/app/%E5%89%AA%E6%98%A0%E4%B8%93%E4%B8%9A%E7%89%88/id1529999940?mt=12)|
 |倒数日|记住重要日子|[App Store](https://apps.apple.com/cn/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter-for-desktop/id494500492?mt=12)|
 |Image2icon|制作 icon 图标|[App Store](https://apps.apple.com/cn/app/image2icon-%E5%88%B6%E4%BD%9C%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E6%A0%87/id992115977?mt=12)|
