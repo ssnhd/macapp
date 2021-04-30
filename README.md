@@ -59,7 +59,7 @@
 |One Switch|系统功能快速开关|[官网](https://fireball.studio/oneswitch/)|
 |CheatSheet|显示快捷键|[官网](https://www.mediaatelier.com/CheatSheet/)|
 |Numi|计算器|[官网](https://numi.app/)|
-|Soulver 3|计算器|[官网](https://soulver.app/)|
+|Soulver 3|计算器|[App Store](https://apps.apple.com/cn/app/soulver-3/id1508732804?mt=12)|
 |Currencier|货币转换和汇率|[App Store](https://apps.apple.com/cn/app/currencier-%E8%B4%A7%E5%B8%81%E8%BD%AC%E6%8D%A2%E5%99%A8%E5%92%8C%E6%B1%87%E7%8E%87/id1150106962?mt=12)|
 
 
