@@ -57,5 +57,8 @@
 |Window Tidy|分屏工具|[App Store](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12)|
 |One Switch|系统功能快速开关|[官网](https://fireball.studio/oneswitch/)|
 |CheatSheet|显示快捷键|[官网](https://www.mediaatelier.com/CheatSheet/)|
+|Numi|计算器|[官网](https://numi.app/)|
+|Soulver 3|计算器|[官网](https://soulver.app/)|
+
 
 
