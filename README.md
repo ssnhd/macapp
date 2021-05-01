@@ -43,6 +43,7 @@
 |  Topaz Gigapixel AI |  图片无损放大 |  [官网](https://topazlabs.com/gigapixel-ai/) |
 | Bartender  | 管理菜单栏图标  | [官网](https://www.macbartender.com/Bartender4/)  |
 |  Magnet |  窗口管理 |  [App Store](https://apps.apple.com/cn/app/magnet/id441258766?mt=12) |
+|Hookshot|窗口管理|[官网](https://hookshot.app/)|
 | One Switch | 系统功能快速开关 | [官网](https://fireball.studio/oneswitch/)|
 | BetterZip | 解压缩 | [官网](https://www.macitbetter.com/)|
 |Keka | 解压缩 | [官网](https://www.keka.io/en/)|
