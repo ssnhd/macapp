@@ -24,7 +24,8 @@
 |  Sip | 取色  | [官网](https://sipapp.io/)  |
 | Speedtest  |  测网速 | [App Store](https://apps.apple.com/cn/app/speedtest-by-ookla/id1153157709?mt=12)  |
 | Blackmagic Disk Speed Test  | 测试硬盘读写速度  |  [App Store](https://apps.apple.com/cn/app/blackmagic-disk-speed-test/id425264550?mt=12) |
-|  Visual Studio Code | 源代码编辑器  | [官网](https://code.visualstudio.com/)  |
+|  Visual Studio Code | 代码编辑器  | [官网](https://code.visualstudio.com/)  |
+|Sublime Text|代码编辑器|[官网](http://www.sublimetext.com/)|
 | AS Timer  | 倒计时  |  [App Store](https://apps.apple.com/cn/app/as-timer/id512464723?mt=12) |
 | IINA  | 播放器  | [官网](https://iina.io/)  |
 |iina+|搭配 IINA 播放器观看直播|[GitHub](https://github.com/xjbeta/iina-plus/releases/tag/0.5.15(21033022))|
