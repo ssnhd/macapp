@@ -3,6 +3,7 @@
 | App | 功能 | 安装 |
 | --- | --- | --- |
 |Chrome|浏览器|[官网](https://www.google.com/intl/zh-CN/chrome/)|
+|Firefox|浏览器|[官网](https://www.mozilla.org/zh-CN/firefox/new/)|
 |Edge|浏览器|[官网](https://www.microsoftedgeinsider.com/zh-cn/download/)|
 |Twitter|社交|[App Store](https://apps.apple.com/cn/app/twitter/id1482454543?mt=12)|
 |微信|社交|[App Store](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)|
