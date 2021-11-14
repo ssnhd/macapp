@@ -16,7 +16,7 @@
 |Typora|Markdown 编辑器|[官网](https://www.typora.io/)|
 |CleanShot X|截图 |[官网](https://cleanshot.com/)|
 |Spark|邮件客户端| [App Store](https://apps.apple.com/cn/app/spark-readdle-%E5%87%BA%E5%93%81%E7%9A%84%E9%82%AE%E7%AE%B1%E5%BA%94%E7%94%A8/id1176895641?mt=12)|
-|Mimestream|Gmail 第三方邮件客户端|[官网](https://mimestream.com)|
+|Mimestream|Gmail 邮件客户端|[官网](https://mimestream.com)|
 |Alfred|第三方聚焦搜索|[官网](https://www.alfredapp.com/)|
 |Bob|截图/划词/输入翻译| [GitHub](https://github.com/ripperhe/Bob)|
 | iStat Menus | 系统监控 | [官网](https://bjango.com/mac/istatmenus/) |
