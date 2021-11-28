@@ -46,8 +46,10 @@
 | iMazing  |  管理 iPhone |  [官网](https://imazing.com/zh) |
 |  Topaz Gigapixel AI |  图片无损放大 |  [官网](https://topazlabs.com/gigapixel-ai/) |
 | Bartender  | 管理菜单栏图标  | [官网](https://www.macbartender.com/Bartender4/)  |
-|  Magnet |  窗口管理 |  [App Store](https://apps.apple.com/cn/app/magnet/id441258766?mt=12) |
-|Hookshot|窗口管理|[官网](https://hookshot.app/)|
+|  Magnet |  窗口分屏工具 |  [App Store](https://apps.apple.com/cn/app/magnet/id441258766?mt=12) |
+|Hookshot|窗口分屏工具|[官网](https://hookshot.app/)|
+|Window Tidy|窗口分屏工具|[App Store](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12)|
+|spectacleapp|窗口分屏工具|[官网](https://www.spectacleapp.com/)|
 | One Switch | 系统功能快速开关 | [官网](https://fireball.studio/oneswitch/)|
 | BetterZip | 解压缩 | [官网](https://www.macitbetter.com/)|
 |Keka | 解压缩 | [官网](https://www.keka.io/en/)|
@@ -61,8 +63,6 @@
 |Drivedx|检测硬盘信息|[官网](https://binaryfruit.com/drivedx)|
 |ArctimePro|制作字幕|[官网](http://arctime.cn/download.html)|
 |Handbrake|视频压缩及格式转换|[官网](https://handbrake.fr/)|
-|Window Tidy|分屏工具|[App Store](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12)|
-|spectacleapp|免费分屏工具|[官网](https://www.spectacleapp.com/)|
 |One Switch|系统功能快速开关|[官网](https://fireball.studio/oneswitch/)|
 |CheatSheet|显示快捷键|[官网](https://www.mediaatelier.com/CheatSheet/)|
 |Numi|计算器|[官网](https://numi.app/)|
