@@ -20,6 +20,7 @@
 |Alfred|第三方聚焦搜索|[官网](https://www.alfredapp.com/)|
 |Bob|截图/划词/输入翻译| [GitHub](https://github.com/ripperhe/Bob)|
 | iStat Menus | 系统监控 | [官网](https://bjango.com/mac/istatmenus/) |
+|RunCat|猫咪系统监控|[App Store](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12)|
 | uPic | 图床工具 | [App Store](https://apps.apple.com/cn/app/upic-%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%9B%BE%E5%BA%8A%E5%B7%A5%E5%85%B7/id1549159979?mt=12) |
 | CleanMyMac X  | 电脑清理  | [官网](https://macpaw.com/cleanmymac)  |
 | App Cleaner & Uninstaller  |  卸载 | [官网](https://nektony.com/mac-app-cleaner)  |
@@ -61,6 +62,7 @@
 |ArctimePro|制作字幕|[官网](http://arctime.cn/download.html)|
 |Handbrake|视频压缩及格式转换|[官网](https://handbrake.fr/)|
 |Window Tidy|分屏工具|[App Store](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12)|
+|spectacleapp|免费分屏工具|[官网](https://www.spectacleapp.com/)|
 |One Switch|系统功能快速开关|[官网](https://fireball.studio/oneswitch/)|
 |CheatSheet|显示快捷键|[官网](https://www.mediaatelier.com/CheatSheet/)|
 |Numi|计算器|[官网](https://numi.app/)|
