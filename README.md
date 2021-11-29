@@ -1,5 +1,7 @@
 #  macOS 最佳常用 App
 
+[![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/V2EXPro) 
+
 | App | 功能 | 安装 |
 | --- | --- | --- |
 |Chrome|浏览器|[官网](https://www.google.com/intl/zh-CN/chrome/)|
