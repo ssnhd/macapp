@@ -74,6 +74,7 @@
 |TinyPNG|在线图片压缩|[官网](https://tinypng.com/)|
 |Thor|App 启动快捷键|[App Store](https://apps.apple.com/cn/app/thor/id1120999687?mt=12)|
 |KeyboardHolder|自动切换输入法|[GitHub](https://github.com/leaves615/KeyboardHolder)|
+|Hidden Bar|隐藏菜单栏图标|[App Store](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)|
 
 
 
