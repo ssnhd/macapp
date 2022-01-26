@@ -77,3 +77,4 @@
 | Hidden Bar                 | 隐藏菜单栏图标           | [App Store](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)                                                                          |
 | iTerm2                     | 第三方终端               | [官网](https://iterm2.com)                                                                                                                        |
 | Menubarx                   | 菜单栏浏览器             | [App Store](https://apps.apple.com/cn/app/menubarx/id1575588022?mt=12)                                                                            |
+|menuffy|任意位置显示应用菜单| [官网](https://zaru.github.io/menuffy/index_en.html)|
