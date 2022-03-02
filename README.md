@@ -7,6 +7,7 @@
 | Chrome                     | 浏览器                   | [官网](https://www.google.com/intl/zh-CN/chrome/)                                                                                                 |
 | Firefox                    | 浏览器                   | [官网](https://www.mozilla.org/zh-CN/firefox/new/)                                                                                                |
 | Edge                       | 浏览器                   | [官网](https://www.microsoftedgeinsider.com/zh-cn/download/)                                                                                      |
+|Orion|浏览器|[官网](https://browser.kagi.com/)|
 | Twitter                    | 社交                     | [App Store](https://apps.apple.com/cn/app/twitter/id1482454543?mt=12)                                                                             |
 | 微信                       | 社交                     | [App Store](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)                                                                   |
 | Adguard for Safari         | Safari 去广告扩展        | [App Store](https://apps.apple.com/cn/app/adguard-for-safari/id1440147259?mt=12)                                                                  |
