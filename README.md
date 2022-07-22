@@ -76,9 +76,13 @@
 | Squoosh                    | 在线图片压缩             | [官网](https://squoosh.app/)                                                                                                                      |
 | TinyPNG                    | 在线图片压缩             | [官网](https://tinypng.com/)                                                                                                                      |
 | Thor                       | App 启动快捷键           | [App Store](https://apps.apple.com/cn/app/thor/id1120999687?mt=12)                                                                                |
-| KeyboardHolder             | 自动切换输入法           | [GitHub](https://github.com/leaves615/KeyboardHolder)                                                                                             |
+| KeyboardHolder             | 自动切换输入法           | [GitHub](https://github.com/leaves615/KeyboardHolder) |
+|Input Source Pro|自动切换输入法|[官网](https://inputsource.pro/zh-CN)|
 | Hidden Bar                 | 隐藏菜单栏图标           | [App Store](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)                                                                          |
 | iTerm2                     | 第三方终端               | [官网](https://iterm2.com)                                                                                                                        |
 | Menubarx                   | 菜单栏浏览器             | [App Store](https://apps.apple.com/cn/app/menubarx/id1575588022?mt=12)                                                                            |
 |menuffy|任意位置显示应用菜单| [官网](https://zaru.github.io/menuffy/index_en.html)|
 |Easy New File|右键超级菜单|[App Store](https://apps.apple.com/cn/app/easy-new-file/id1162194131?mt=12)|
+
+
+
