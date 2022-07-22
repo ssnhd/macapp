@@ -1,6 +1,6 @@
 # macOS 最佳常用 App
 
-[Telegram 群](https://t.me/V2EXPro)
+果粉电报群：[Apple](https://t.me/applechn)
 
 | App                        | 功能                     | 安装                                                                                                                                              |
 | -------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -81,3 +81,4 @@
 | iTerm2                     | 第三方终端               | [官网](https://iterm2.com)                                                                                                                        |
 | Menubarx                   | 菜单栏浏览器             | [App Store](https://apps.apple.com/cn/app/menubarx/id1575588022?mt=12)                                                                            |
 |menuffy|任意位置显示应用菜单| [官网](https://zaru.github.io/menuffy/index_en.html)|
+|Easy New File|右键超级菜单|[App Store](https://apps.apple.com/cn/app/easy-new-file/id1162194131?mt=12)|
