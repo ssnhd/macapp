@@ -83,6 +83,7 @@
 | Menubarx                   | 菜单栏浏览器             | [App Store](https://apps.apple.com/cn/app/menubarx/id1575588022?mt=12)                                                                            |
 |menuffy|任意位置显示应用菜单| [官网](https://zaru.github.io/menuffy/index_en.html)|
 |Easy New File|右键超级菜单|[App Store](https://apps.apple.com/cn/app/easy-new-file/id1162194131?mt=12)|
+|SteerMouse|鼠标管理软件|[官网](https://plentycom.jp/en/steermouse/)|
 
 
 
