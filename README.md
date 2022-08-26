@@ -50,6 +50,7 @@
 | iMazing                    | 管理 iPhone              | [官网](https://imazing.com/zh)                                                                                                                    |
 | Topaz Gigapixel AI         | 图片无损放大             | [官网](https://topazlabs.com/gigapixel-ai/)                                                                                                       |
 | Bartender                  | 管理菜单栏图标           | [官网](https://www.macbartender.com/Bartender4/)                                                                                                  |
+|Rectangle|窗口分屏工具|[GitHub](https://github.com/rxhanson/Rectangle/releases)|
 | Magnet                     | 窗口分屏工具             | [App Store](https://apps.apple.com/cn/app/magnet/id441258766?mt=12)                                                                               |
 | Hookshot                   | 窗口分屏工具             | [官网](https://hookshot.app/)                                                                                                                     |
 | Window Tidy                | 窗口分屏工具             | [App Store](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12)                                                                          |
