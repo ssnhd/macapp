@@ -49,8 +49,8 @@
 3. MWeb Pro 的精简版：[One Markdown](https://apps.apple.com/cn/app/one-markdown/id1507139439) 
 
 ## 邮件
-1.Spark：[App Store](https://apps.apple.com/cn/app/spark-readdle-出品的邮箱应用/id1176895641?mt=12)
-2. Mimestream：[官网](https://mimestream.com)
+1. 支持跨设备同步：[Spark](https://apps.apple.com/cn/app/spark-readdle-出品的邮箱应用/id1176895641?mt=12)
+2. 直连 Gmail：[Mimestream](https://mimestream.com)
 
 ## 窗口管理
 1. 免费开源功能全：[Rectangle](https://github.com/rxhanson/Rectangle/releases)
