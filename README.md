@@ -2,6 +2,8 @@
 
 果粉 Telegram 群：[@applechn](https://t.me/applechn)
 
+最新更新 [点击这里](https://ssnhd.com/2022/08/27/mac-app/)
+
 ## 浏览器
 1. 市占率世界第一：[Chrome](https://www.google.com/intl/zh-CN/chrome/)
 2. 日渐衰败： [Firefox](https://www.mozilla.org/zh-CN/firefox/new/) 
