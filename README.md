@@ -1,90 +1,139 @@
-# macOS 最佳常用 App
+# macOS 应用汇总
 
-果粉电报群：[Apple](https://t.me/applechn)
+果粉 Telegram 群：[@applechn](https://t.me/applechn)
 
-| App                        | 功能                     | 安装                                                                                                                                              |
-| -------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chrome                     | 浏览器                   | [官网](https://www.google.com/intl/zh-CN/chrome/)                                                                                                 |
-| Firefox                    | 浏览器                   | [官网](https://www.mozilla.org/zh-CN/firefox/new/)                                                                                                |
-| Edge                       | 浏览器                   | [官网](https://www.microsoftedgeinsider.com/zh-cn/download/)                                                                                      |
-|Orion|浏览器|[官网](https://browser.kagi.com/)|
-| Twitter                    | 社交                     | [App Store](https://apps.apple.com/cn/app/twitter/id1482454543?mt=12)                                                                             |
-| 微信                       | 社交                     | [App Store](https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id836500024?mt=12)                                                                   |
-| Adguard for Safari         | Safari 去广告扩展        | [App Store](https://apps.apple.com/cn/app/adguard-for-safari/id1440147259?mt=12)                                                                  |
-| Tampermonkey               | Safari 油猴扩展          | [App Store](https://apps.apple.com/cn/app/tampermonkey/id1482490089?mt=12)                                                                        |
-| 1Password                  | 密码管理                 | [App Store](https://apps.apple.com/cn/app/1password-7-password-manager/id1333542190?mt=12)                                                        |
-| Enpass                     | 密码管理                 | [App Store](https://apps.apple.com/cn/app/enpass-password-manager/id732710998?mt=12)                                                              |
-| PasteNow                   | 剪贴板                   | [App Store](https://apps.apple.com/cn/app/pastenow-%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%B7%A5%E5%85%B7/id1552536109?mt=12)                              |
-| One Markdown               | Markdown 编辑器          | [App Store](https://apps.apple.com/cn/app/one-markdown/id1507139439)                                                                              |
-| Typora                     | Markdown 编辑器          | [官网](https://www.typora.io/)                                                                                                                    |
-| CleanShot X                | 截图                     | [官网](https://cleanshot.com/)                                                                                                                    |
-|Shottr|截图|[官网](https://shottr.cc/)|
-| Spark                      | 邮件客户端               | [App Store](https://apps.apple.com/cn/app/spark-readdle-%E5%87%BA%E5%93%81%E7%9A%84%E9%82%AE%E7%AE%B1%E5%BA%94%E7%94%A8/id1176895641?mt=12)       |
-| Mimestream                 | Gmail 邮件客户端         | [官网](https://mimestream.com)                                                                                                                    |
-| Alfred                     | 第三方聚焦搜索           | [官网](https://www.alfredapp.com/)                                                                                                                |
-| Bob                        | 截图/划词/输入翻译       | [GitHub](https://github.com/ripperhe/Bob)                                                                                                         |
-| iStat Menus                | 系统监控                 | [官网](https://bjango.com/mac/istatmenus/)                                                                                                        |
-| RunCat                     | 猫咪系统监控             | [App Store](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12)                                                                              |
-| uPic                       | 图床工具                 | [App Store](https://apps.apple.com/cn/app/upic-%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%9B%BE%E5%BA%8A%E5%B7%A5%E5%85%B7/id1549159979?mt=12)                |
-| CleanMyMac X               | 电脑清理                 | [官网](https://macpaw.com/cleanmymac)                                                                                                             |
-| App Cleaner & Uninstaller  | 卸载                     | [官网](https://nektony.com/mac-app-cleaner)                                                                                                       |
-| Sip                        | 取色                     | [官网](https://sipapp.io/)                                                                                                                        |
-| Speedtest                  | 测网速                   | [App Store](https://apps.apple.com/cn/app/speedtest-by-ookla/id1153157709?mt=12)                                                                  |
-| Blackmagic Disk Speed Test | 测试硬盘读写速度         | [App Store](https://apps.apple.com/cn/app/blackmagic-disk-speed-test/id425264550?mt=12)                                                           |
-| Visual Studio Code         | 代码编辑器               | [官网](https://code.visualstudio.com/)                                                                                                            |
-| Sublime Text               | 代码编辑器               | [官网](http://www.sublimetext.com/)                                                                                                               |
-| AS Timer                   | 倒计时                   | [App Store](https://apps.apple.com/cn/app/as-timer/id512464723?mt=12)                                                                             |
-| IINA                       | 播放器                   | [官网](https://iina.io/)                                                                                                                          |
-| iina+                      | 搭配 IINA 播放器观看直播 | [GitHub](<https://github.com/xjbeta/iina-plus/releases/tag/0.5.15(21033022)>)                                                                     |
-| Rime 鼠须管                | 开源输入法               | [GitHub](https://github.com/maomiui/rime)                                                                                                         |
-| Downie                     | 视频下载                 | [官网](https://software.charliemonroe.net/downie/)                                                                                                |
-| Permute                    | 视频格式转换             | [官网](https://software.charliemonroe.net/permute/)                                                                                               |
-| ClashX                     | 网络工具                 | [GitHub](https://github.com/yichengchen/clashX)                                                                                                   |
-| Surge                      | 网络工具                 | [官网](https://nssurge.com/)                                                                                                                      |
-| Sketch                     | 矢量绘图                 | [官网](https://www.sketch.com/)                                                                                                                   |
-| XMind                      | 思维导图                 | [官网](https://www.xmind.cn/)                                                                                                                     |
-| VMware Fusion Pro          | 虚拟机                   | [官网](https://www.vmware.com/cn/products/fusion.html)                                                                                            |
-| Parallels Desktop          | 虚拟机                   | [官网](https://www.parallels.com/)                                                                                                                |
-| PDF Expert                 | PDF 编辑器               | [官网](https://pdfexpert.com/)                                                                                                                    |
-| Paragon NTFS               | 读写 NTFS 磁盘           | [官网](https://www.paragon-software.com/home/ntfs-mac/)                                                                                           |
-| iMazing                    | 管理 iPhone              | [官网](https://imazing.com/zh)                                                                                                                    |
-| Topaz Gigapixel AI         | 图片无损放大             | [官网](https://topazlabs.com/gigapixel-ai/)                                                                                                       |
-| Bartender                  | 管理菜单栏图标           | [官网](https://www.macbartender.com/Bartender4/)                                                                                                  |
-|Rectangle|窗口分屏工具|[GitHub](https://github.com/rxhanson/Rectangle/releases)|
-| Magnet                     | 窗口分屏工具             | [App Store](https://apps.apple.com/cn/app/magnet/id441258766?mt=12)                                                                               |
-| Hookshot                   | 窗口分屏工具             | [官网](https://hookshot.app/)                                                                                                                     |
-| Window Tidy                | 窗口分屏工具             | [App Store](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12)                                                                          |
-| spectacleapp               | 窗口分屏工具             | [官网](https://www.spectacleapp.com/)                                                                                                             |
-| One Switch                 | 系统功能快速开关         | [官网](https://fireball.studio/oneswitch/)                                                                                                        |
-| BetterZip                  | 解压缩                   | [官网](https://www.macitbetter.com/)                                                                                                              |
-| Keka                       | 解压缩                   | [官网](https://www.keka.io/en/)                                                                                                                   |
-| DaisyDisk                  | 磁盘分析清理             | [官网](https://daisydiskapp.com/)                                                                                                                 |
-| PopClip                    | 划词扩展                 | [App Store](https://apps.apple.com/cn/app/popclip/id445189367?mt=12)                                                                              |
-| 剪映专业版                 | 视频创作                 | [App Store](https://apps.apple.com/cn/app/%E5%89%AA%E6%98%A0%E4%B8%93%E4%B8%9A%E7%89%88/id1529999940?mt=12)                                       |
-| 倒数日                     | 记住重要日子             | [App Store](https://apps.apple.com/cn/app/%E5%80%92%E6%95%B0%E6%97%A5-days-matter-for-desktop/id494500492?mt=12)                                  |
-| Image2icon                 | 制作 icon 图标           | [App Store](https://apps.apple.com/cn/app/image2icon-%E5%88%B6%E4%BD%9C%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E6%A0%87/id992115977?mt=12)           |
-| AltTab                     | 窗口切换                 | [GitHub](https://github.com/lwouis/alt-tab-macos/releases/tag/v6.21.0)                                                                            |
-|Contexts|窗口切换|[官网](https://contexts.co/)|
-| GitHub Desktop             | GitHub 桌面              | [GitHub](https://desktop.github.com/)                                                                                                             |
-| Drivedx                    | 检测硬盘信息             | [官网](https://binaryfruit.com/drivedx)                                                                                                           |
-| ArctimePro                 | 制作字幕                 | [官网](http://arctime.cn/download.html)                                                                                                           |
-| Handbrake                  | 视频压缩及格式转换       | [官网](https://handbrake.fr/)                                                                                                                     |
-| One Switch                 | 系统功能快速开关         | [官网](https://fireball.studio/oneswitch/)                                                                                                        |
-| CheatSheet                 | 显示快捷键               | [官网](https://www.mediaatelier.com/CheatSheet/)                                                                                                  |
-| Numi                       | 计算器                   | [官网](https://numi.app/)                                                                                                                         |
-| Soulver 3                  | 计算器                   | [App Store](https://apps.apple.com/cn/app/soulver-3/id1508732804?mt=12)                                                                           |
-| Currencier                 | 货币转换和汇率           | [App Store](https://apps.apple.com/cn/app/currencier-%E8%B4%A7%E5%B8%81%E8%BD%AC%E6%8D%A2%E5%99%A8%E5%92%8C%E6%B1%87%E7%8E%87/id1150106962?mt=12) |
-| Squoosh                    | 在线图片压缩             | [官网](https://squoosh.app/)                                                                                                                      |
-| TinyPNG                    | 在线图片压缩             | [官网](https://tinypng.com/)                                                                                                                      |
-| Thor                       | App 启动快捷键           | [App Store](https://apps.apple.com/cn/app/thor/id1120999687?mt=12)                                                                                |
-| KeyboardHolder             | 自动切换输入法           | [GitHub](https://github.com/leaves615/KeyboardHolder) |
-|Input Source Pro|自动切换输入法|[官网](https://inputsource.pro/zh-CN)|
-| Hidden Bar                 | 隐藏菜单栏图标           | [App Store](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)                                                                          |
-| iTerm2                     | 第三方终端               | [官网](https://iterm2.com)                                                                                                                        |
-| Menubarx                   | 菜单栏浏览器             | [App Store](https://apps.apple.com/cn/app/menubarx/id1575588022?mt=12)                                                                            |
-|menuffy|任意位置显示应用菜单| [官网](https://zaru.github.io/menuffy/index_en.html)|
-|Easy New File|右键超级菜单|[App Store](https://apps.apple.com/cn/app/easy-new-file/id1162194131?mt=12)|
-|SteerMouse|鼠标管理软件|[官网](https://plentycom.jp/en/steermouse/)|
+## 浏览器
+1. 市占率世界第一：[Chrome](https://www.google.com/intl/zh-CN/chrome/)
+2. 日渐衰败： [Firefox](https://www.mozilla.org/zh-CN/firefox/new/) 
+3. 微软新兴：[Edge](https://www.microsoftedgeinsider.com/zh-cn/download/) 
+4. 主打保护隐私：[Brave](https://brave.com/zh/)
+5. 号称安全：[Orion](https://browser.kagi.com/)
 
+## 浏览器扩展
+1. Safari 去广告：[Adguard](https://apps.apple.com/cn/app/adguard-for-safari/id1440147259?mt=12)
+2. Safari 油猴：[Tampermonkey](https://apps.apple.com/cn/app/tampermonkey/id1482490089?mt=12)
 
+## 社交
+1. 推友：[Twitter](https://apps.apple.com/cn/app/twitter/id1482454543?mt=12) 
+2. 国民社交：[微信](https://apps.apple.com/cn/app/微信/id836500024?mt=12) 
+3. 深受好评的群组应用：[Telegram](https://apps.apple.com/cn/app/telegram/id747648890?mt=12)
+4. 第三方微博客户端：[Maipo](https://apps.apple.com/cn/app/maipo-for-微博/id789066512?mt=12)
 
+## 效率
+1. 剪切板：[PasteNow](https://apps.apple.com/cn/app/pastenow-剪贴板工具/id1552536109?mt=12)
+2. 第三方聚焦搜索：[Alfred](https://www.alfredapp.com/)
+3. 菜单栏图标管理：[Bartender ](https://www.macbartender.com/Bartender4/)
+4. 菜单栏图标管理：[Hidden Bar](https://apps.apple.com/cn/app/hidden-bar/id1452453066?mt=12)
+5. 快捷开关：[One Switch](https://fireball.studio/oneswitch/)
+6. 翻译：[Bob](https://apps.apple.com/cn/app/bob-翻译和-ocr-工具/id1630034110?mt=12)
+7. 划词扩展：[PopClip](https://apps.apple.com/cn/app/popclip/id445189367?mt=12)
+8. 图床：[uPic](https://apps.apple.com/cn/app/upic-强大的图床工具/id1549159979?mt=12)
+9. 显示快捷键：[CheatSheet](https://www.mediaatelier.com/CheatSheet/)
+10. 快捷启动应用：[Thor](https://apps.apple.com/cn/app/thor/id1120999687?mt=12)
+11. 超级右键：[Easy New File](https://apps.apple.com/cn/app/easy-new-file/id1162194131?mt=12)
+
+## 密码管理
+1. 1Password：[App Store](https://apps.apple.com/cn/app/1password-7-password-manager/id1333542190?mt=12) 
+2. Enpass：[App Store](https://apps.apple.com/cn/app/enpass-password-manager/id732710998?mt=12)
+
+## 截图
+1. 可能是 Mac 上最好用的截图应用：[CleanShot X](https://cleanshot.com/)
+2. 免费：[Shottr](https://shottr.cc/)
+3. 性价比较高：[Xnip](https://apps.apple.com/cn/app/xnip-截图-标注/id1221250572?mt=12)
+
+## Markdown
+1. 所见即所得：[Typora](https://www.typora.io/)
+2. 功能强大：[MWeb Pro](https://apps.apple.com/cn/app/mweb-pro/id1403919533?mt=12)
+3. MWeb Pro 的精简版：[One Markdown](https://apps.apple.com/cn/app/one-markdown/id1507139439) 
+
+## 邮件
+1.Spark：[App Store](https://apps.apple.com/cn/app/spark-readdle-出品的邮箱应用/id1176895641?mt=12)
+2. Mimestream：[官网](https://mimestream.com)
+
+## 窗口管理
+1. 免费开源功能全：[Rectangle](https://github.com/rxhanson/Rectangle/releases)
+2. 收费：[Magnet](https://apps.apple.com/cn/app/magnet/id441258766?mt=12)
+3. Hookshot：[官网](https://hookshot.app/)
+4. 收费，很久没更新：[Window Tidy](https://apps.apple.com/cn/app/window-tidy/id456609775?mt=12)
+5. spectacleapp：[官网](https://www.spectacleapp.com/)
+6. 窗口切换：[AltTab](https://github.com/lwouis/alt-tab-macos)
+7. 窗口切换：[Contexts](https://contexts.co/)
+
+## 设计
+1. 矢量图绘制：[Sketch](https://www.sketch.com/)
+2. 取色：[Sip](https://sipapp.io/)
+3. 思维导图：[XMind](https://www.xmind.cn/)
+4. 在线压缩图片：[Squoosh](https://squoosh.app/)
+5. 在线压缩图片：[TinyPNG](https://tinypng.com/)
+6. 图片放大：[Topaz Gigapixel AI](https://topazlabs.com/gigapixel-ai/)
+7. 制作 icon 图标：[Image2icon](https://apps.apple.com/cn/app/image2icon-制作自己的图标/id992115977?mt=12)
+8. 制作字幕：[ArctimePro](http://arctime.cn/download.html)
+9. 视频格式转换：[Permute](https://software.charliemonroe.net/permute/)
+10. PDF 编辑器：[PDF Expert ](https://pdfexpert.com/)
+11. 视频剪辑：[剪映](https://apps.apple.com/cn/app/剪映专业版/id1529999940?mt=12)
+12. 视频压缩：[Handbrake ](https://handbrake.fr/)
+
+## 播放器
+1. 显示效果最佳：[Movist Pro](https://movistprime.com/)
+2. 免费开源：[IINA](https://iina.io/)
+3. 直播助手：[IINA+](https://github.com/xjbeta/iina-plus)
+4. 腾讯系：[腾讯视频](https://apps.apple.com/cn/app/腾讯视频-不负好时光/id1231336508?mt=12)
+5. 市占率高：[爱奇艺](https://apps.apple.com/cn/app/爱奇艺-二十不惑2全网首播/id1012296988?mt=12)
+6. 阿里系：[优酷](https://apps.apple.com/cn/app/优酷/id1014945607?mt=12)
+7. 湖南卫视：[芒果 TV](https://apps.apple.com/cn/app/芒果tv-中餐厅6热播中/id1462725166?mt=12)
+
+## 解压缩
+1. 老牌：[BetterZip](https://www.macitbetter.com/)
+2. 免费：[Keka](https://www.keka.io/en/)
+
+## 清理
+1. 卸载应用最干净：[App Cleaner & Uninstaller](https://nektony.com/mac-app-cleaner)
+2. 老牌：[CleanMyMac X](https://macpaw.com/cleanmymac)
+
+## 系统监控
+1. iStat Menus：[官网](https://bjango.com/mac/istatmenus/)
+2. RunCat：[App Store](https://apps.apple.com/cn/app/runcat/id1429033973?mt=12)
+3. 检测硬盘信息：[Drivedx](https://binaryfruit.com/drivedx)
+
+## 下载
+1. 多平台视频下载：[Downie](https://software.charliemonroe.net/downie/)
+2. 国民下载应用：[迅雷](https://www.xunlei.com/)
+
+## 计算器
+1. Soulver 3：[App Store](https://apps.apple.com/cn/app/soulver-3/id1508732804?mt=12)
+2. Numi：[官网](https://numi.app/)
+
+## 虚拟机
+1. 好用：[Parallels Desktop](https://www.parallels.com/)
+2. 免费：[VMware](https://www.vmware.com/cn/products/fusion.html)
+
+## 网络工具
+1. 科学上网：[ClashX](https://github.com/yichengchen/clashX)
+2. 科学上网和抓包：[Surge](https://nssurge.com/)
+
+## 输入法
+1. 开源不联网：[Rime 鼠须管](https://rime.im/)
+2. 适合小白用户：[鼠须管配置详解](https://github.com/ssnhd/rime)
+3. 国民输入法：[搜狗输入法](https://pinyin.sogou.com/mac/)
+4. 功能少且更新较慢：[百度输入法](https://srf.baidu.com/input/mac.html)
+5. 自动切换输入法：[KeyboardHolder](https://github.com/leaves615/KeyboardHolder)
+6. 自动切换输入法：[Input Source Pro](https://inputsource.pro/zh-CN)
+
+## 代码编辑器
+1. 微软出品：[Visual Studio Code](https://code.visualstudio.com/)
+2. 老牌：[Sublime Text](http://www.sublimetext.com/)
+3. 第三方终端：[iTerm2](https://iterm2.com)
+
+## 其他
+1. 货币转换和汇率：[Currencier ](https://apps.apple.com/cn/app/currencier-货币转换器和汇率/id1150106962?mt=12)
+2. 测网速：[Speedtest](https://apps.apple.com/cn/app/speedtest-by-ookla/id1153157709?mt=12)
+3. 测硬盘读写：[Blackmagic Disk Speed Test](https://apps.apple.com/cn/app/blackmagic-disk-speed-test/id425264550?mt=12)
+4. 磁盘分析：[DaisyDisk](https://daisydiskapp.com/)
+5. NTFS 磁盘：[Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/)
+6. 管理 iPhone：[iMazing ](https://imazing.com/zh)
+7. 倒计日：[倒数日](https://apps.apple.com/cn/app/倒数日-days-matter-for-desktop/id494500492?mt=12)
+8. 倒计时：[AS Timer](https://apps.apple.com/cn/app/as-timer/id512464723?mt=12)
+9. GitHub 桌面：[GitHub Desktop](https://desktop.github.com/)
+10. 菜单栏浏览器：[Menubarx](https://apps.apple.com/cn/app/menubarx/id1575588022?mt=12)
+11. 任意位置显示菜单：[menuffy](https://zaru.github.io/menuffy/index_en.html)
+12. 鼠标管理：[SteerMouse](https://plentycom.jp/en/steermouse/)
