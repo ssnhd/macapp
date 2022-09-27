@@ -39,9 +39,9 @@
 2. Enpass：[App Store](https://apps.apple.com/cn/app/enpass-password-manager/id732710998?mt=12)
 
 ## 截图
-1. 可能是 Mac 上最好用的截图应用：[CleanShot X](https://cleanshot.com/)
-2. 免费：[Shottr](https://shottr.cc/)
-3. 性价比较高：[Xnip](https://apps.apple.com/cn/app/xnip-截图-标注/id1221250572?mt=12)
+1. 好用，价格较贵：[CleanShot X](https://cleanshot.com/)
+2. 免费功能多：[Shottr](https://shottr.cc/)
+3. 国内开发者：[Xnip](https://apps.apple.com/cn/app/xnip-截图-标注/id1221250572?mt=12)
 
 ## Markdown
 1. 所见即所得：[Typora](https://www.typora.io/)
