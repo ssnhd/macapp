@@ -100,6 +100,7 @@
 ## 下载
 1. 多平台视频下载：[Downie](https://software.charliemonroe.net/downie/)
 2. 国民下载应用：[迅雷](https://www.xunlei.com/)
+3. 一款全能的下载工具，开免费源：[Motrix](https://motrix.app/zh-CN/)
 
 ## 计算器
 1. Soulver 3：[App Store](https://apps.apple.com/cn/app/soulver-3/id1508732804?mt=12)
