@@ -1,7 +1,5 @@
 # macOS 应用汇总
 
-果粉 Telegram 群：[@applechn](https://t.me/applechn)
-
 最新更新 [点击这里](https://ssnhd.com/2022/08/27/mac-app/)
 
 ## 浏览器
