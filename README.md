@@ -2,7 +2,7 @@
 
 最新更新 [点击这里](https://ssnhd.com/2022/08/27/mac-app/)
 
-## 浏览器
+## 浏览器  
 1. 市占率世界第一：[Chrome](https://www.google.com/intl/zh-CN/chrome/)
 2. 日渐衰败： [Firefox](https://www.mozilla.org/zh-CN/firefox/new/) 
 3. 微软新兴：[Edge](https://www.microsoftedgeinsider.com/zh-cn/download/) 
@@ -40,6 +40,7 @@
 1. 好用，价格较贵：[CleanShot X](https://cleanshot.com/)
 2. 免费功能多：[Shottr](https://shottr.cc/)
 3. 国内开发者：[Xnip](https://apps.apple.com/cn/app/xnip-截图-标注/id1221250572?mt=12)
+4. 简单但强大跨平台：[Snipaste](https://zh.snipaste.com/)
 
 ## Markdown
 1. 所见即所得：[Typora](https://www.typora.io/)
