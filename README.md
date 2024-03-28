@@ -58,6 +58,7 @@
 5. spectacleapp：[官网](https://www.spectacleapp.com/)
 6. 窗口切换：[AltTab](https://github.com/lwouis/alt-tab-macos)
 7. 窗口切换：[Contexts](https://contexts.co/)
+8. Loop 开源：[Loop](https://github.com/MrKai77/Loop)
 
 ## 设计
 1. 矢量图绘制：[Sketch](https://www.sketch.com/)
