@@ -140,3 +140,4 @@
 10. 菜单栏浏览器：[Menubarx](https://apps.apple.com/cn/app/menubarx/id1575588022?mt=12)
 11. 任意位置显示菜单：[menuffy](https://zaru.github.io/menuffy/index_en.html)
 12. 鼠标管理：[SteerMouse](https://plentycom.jp/en/steermouse/)
+13. [MonitorControl 控制外接显示器亮度](https://github.com/MonitorControl/MonitorControl)
