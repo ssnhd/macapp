@@ -1,6 +1,5 @@
-# macOS 装机必备 App
+# Mac 装机必备 App
 
-最新更新 [点击这里](https://ssnhd.com/2022/08/27/mac-app/)
 
 ## 浏览器
 1. 微信输入法：https://z.weixin.qq.com
