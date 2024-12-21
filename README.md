@@ -1,7 +1,5 @@
 # Mac 装机必备 App
 
-
-## 浏览器
 1. 微信输入法：https://z.weixin.qq.com
 2. 搜狗输入法：https://pinyin.sogou.com/mac
 3. Chrome：https://www.google.com/intl/zh-CN/chrome
