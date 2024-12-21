@@ -1,4 +1,4 @@
-# Mac 装机必备 App
+# Mac 装机必备 App、常见设置、删除自带 ABC 输入法
 
 1. 微信输入法：https://z.weixin.qq.com
 2. 搜狗输入法：https://pinyin.sogou.com/mac
@@ -140,5 +140,21 @@ sudo /usr/libexec/PlistBuddy -c "Add 'redesigned_text_cursor:Enabled' bool false
 6. 终端输入：`atsutil server -ping`
 7. 重启电脑
 
+## 删除 ABC
+
+1. 系统偏好设置 → 键盘 → 输入法 → 添加 `US 美国`（Big Sur 及之前版本是 `🇺🇸 美国`），再删除 `ABC`。
+![](https://i.imgur.com/qhpNu0q.png)
+
+2. 前往文件夹（快捷键：Command-Shift-G）输入下面路径并用 [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) 软件打开 
+（路径里 `XXX` 替换为 Mac 用户名）。
+```
+/Users/XXX/Library/Preferences/com.apple.HIToolbox.plist
+```
+
+3. 删除所有包含 `U.S.` 的文件并保存，重启 Mac。
+![](https://i.imgur.com/q9xTLLL.png)
+
+弊端：设置 - 网络 - 修改 DNS 时可能会无法输入数字，可以选择粘贴。\
+还原：系统偏好设置 → 键盘 → 输入法 → 添加 `US 美国` 或 `ABC`。
 
 
